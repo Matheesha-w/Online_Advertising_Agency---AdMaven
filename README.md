@@ -11,6 +11,8 @@
 **AdMaven** is a university-level project built as a simulated **online advertising agency platform** that bridges the gap between content creators, advertisers, and popular brand channels. Users can easily create, manage, and publish their advertisements through our network and available brand partnerships.
 Used HTML,CSS,JS,MSSQL,PHP to develop a fully functional web application with interative components ,capableof handling user inputs ,have database functions
 
+Matheesha Weerasinghe - handled consultant role of this project
+
 The platform is fully responsive and built using:
 
 - **Frontend**: HTML5, CSS3, JavaScript
@@ -32,7 +34,7 @@ The platform is fully responsive and built using:
 | 🛡️ System Admin     | Full control over the platform, manage all users and system settings            |
 | 🧑‍💼 Manager Admin   | Oversees operations, verifies ad requests, manages packages and content creators |
 | 👤 User (Customer) | Can create ads, purchase packages, collaborate with creators, track status       |
-| 🤝 Consultor       | Provides customer service, responds to inquiries and handles user concerns       |
+| 🤝 Consultant       | Provides customer service, responds to inquiries and handles user concerns       |
 | ✍️ Content Creator  | Designs and submits advertisement content as requested by users                  |
 
 ---
