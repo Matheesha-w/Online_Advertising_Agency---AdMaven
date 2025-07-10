@@ -1,8 +1,7 @@
 # 🎯 AdMaven – Online Advertising Agency
 
 [![Tech Stack](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20MySQL-blue?style=flat-square&logo=codeforces)]()
-[![Status](https://img.shields.io/badge/Project%20Status-In%20Progress-green?style=flat-square)]()
-[![Contributors](https://img.shields.io/badge/Team%20Members-5-brightgreen?style=flat-square&logo=github)]()
+
 
 ---
 
