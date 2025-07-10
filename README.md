@@ -62,16 +62,4 @@ The platform is fully responsive and built using:
 
 ---
 
-## 🚀 How to Run Locally
 
-1. Clone the repository
-```bash
-git clone https://github.com/prasad-xma/online-advertising-agency.git
-
-```
-
-## 🙌 Support
-
-If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
-
-👉 [Click here to star the repo](https://github.com/prasad-xma/online-advertising-agency/stargazers)
